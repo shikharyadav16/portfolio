@@ -1,0 +1,17 @@
+{
+  "name": "me",
+  "version": "1.0.0",
+  "description": "About myself",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "nodemailer": "^7.0.6"
+  },
+  "author": "Shikhar",
+  "license": "ISC"
+}
