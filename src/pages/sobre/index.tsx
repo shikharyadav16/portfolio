@@ -16,7 +16,7 @@ export default function Sobre() {
       <div className="wrapper">
         <div className="content">
           <h1>About me</h1>
-          <p>Hey! My name is Shikhar Yadav, born in 2005 in Kanpur, Uttar Pradesh. I'm a backend developer. Currently developing <Link href="https://github.com/shikharyadav16/inchat" target="_blank">InChat</Link> and I'm a sketch artist in my spare time.</p>
+          <p>Hey! My name is Shikhar Yadav, born in 2005 in Kanpur, Uttar Pradesh. I&apos;m a backend developer. Currently developing <Link href="https://github.com/shikharyadav16/inchat" target="_blank">InChat</Link> and I&apos;m a sketch artist in my spare time.</p>
         </div>
 
         <ContentImage src="/img/office_work.avif" width={1024} height={560} alt="Shikhar Yadav coding under extreme pressure and flashing lights at Code In The Dark 2023">
