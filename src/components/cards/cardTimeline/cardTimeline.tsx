@@ -7,10 +7,9 @@ type Props = {
 }
 
 export default function CardTimeline(props: Props) {
-  return(
+  return (
     <div className={styles.card}>
       <span className={styles.year}>{props.year}</span>
-      
       <div className={styles.content}>
         <h3 className={styles.title}>{props.title}</h3>
         <p className={styles.description}>{props.description}</p>

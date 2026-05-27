@@ -1,0 +1,152 @@
+[
+    {
+        "year": 2026,
+        "jobs": [
+            {
+                "title": "InChat (Real-Time Encrypted Messaging)",
+                "description": "Building a full-stack real-time messaging system using Node.js, Socket.IO, and MongoDB with end-to-end encryption using TweetNaCl. Implementing secure key exchange, scalable architecture, and room-based communication.",
+                "tags": [
+                    "node.js",
+                    "socket.io",
+                    "encryption",
+                    "mongodb",
+                    "system design"
+                ]
+            },
+            {
+                "title": "mongoose-lite-js",
+                "description": "Developed a custom lightweight ODM inspired by Mongoose that uses YAML files as a database. Designed for learning database internals, schema handling, and query abstraction without requiring MongoDB.",
+                "tags": [
+                    "node.js",
+                    "database",
+                    "odm",
+                    "yaml",
+                    "system design"
+                ]
+            }
+        ]
+    },
+    {
+        "year": 2025,
+        "jobs": [
+            {
+                "title": "LRU Cache",
+                "description": "An LRU (Least Recently Used) Cache is a data structure used to store a limited number of items while automatically removing the least recently accessed data when the cache reaches its limit.",
+                "tags": [
+                    "cache",
+                    "javascript",
+                    "problem-solving"
+                ]
+            },
+            {
+                "title": "Admin Panel",
+                "description": "Developed a centralized dashboard built to give full control over the platform. It enables admins to manage users, teams, and scrims, monitor live matches, handle reports and disputes, and oversee overall activity.",
+                "tags": [
+                    "node.js",
+                    "full-stack",
+                    "mongodb",
+                    "socket.io"
+                ]
+            },
+            {
+                "title": "Administrator",
+                "description": "Developed a powerful control center designed to manage and monitor the entire platform efficiently. It allows administrators to create and oversee scrims, manage users and teams, track match results, handle disputes, and control platform activity in real time.",
+                "tags": [
+                    "node.js",
+                    "full-stack",
+                    "cache",
+                    "mongodb",
+                    "socket.io"
+                ]
+            },
+            {
+                "title": "NextScrimz (E-SPorts platfrom)",
+                "description": "Developed a full-stack platform designed to help gamers and organizers manage scrims and competitive events effortlessly. It allows users to create matches, join ongoing scrims, track scores, and coordinate teams in real time. Built for performance and scalability, NextScrim simplifies event management and enhances the competitive gaming experience.",
+                "tags": [
+                    "node.js",
+                    "full-stack",
+                    "cache",
+                    "real-time",
+                    "mongodb",
+                    "socket.io"
+                ]
+            }
+        ]
+    },
+    {
+        "year": 2024,
+        "jobs": [
+            {
+                "title": "Rasoee",
+                "description": "Developed a full-stack food platform designed to connect home cooks with people looking for fresh, homemade meals. It allows users to browse dishes, place orders, and manage subscriptions, while enabling household cooks to list and sell their food easily.",
+                "tags" : [
+                    "javascript",
+                    "node.js",
+                    "socket.io",
+                    "mongodb",
+                    "express"
+                ]
+            },
+            {
+                "title": "Full Stack Foundations",
+                "description": "Started building full stack applications using JavaScript, Node.js, Express, and MongoDB. Focused on API design, authentication, and database schema structuring.",
+                "tags": [
+                    "javascript",
+                    "node.js",
+                    "express",
+                    "mongodb"
+                ]
+            },
+            {
+                "title": "Four in a row",
+                "description": "Developed a simple and interactive web-based game where two players can play on an 8x8 grid. Designed with a clean interface and smooth gameplay.",
+                "tags": [
+                    "javascript",
+                    "socket.io",
+                    "problem-solving"
+                ]
+            },
+            {
+                "title": "Frontend Development",
+                "description": "Developed responsive interfaces using React, focusing on component-based architecture, routing, and performance optimization.",
+                "tags": [
+                    "react",
+                    "tailwind",
+                    "frontend"
+                ]
+            }
+        ]
+    },
+    {
+        "year": 2023,
+        "jobs": [
+            {
+                "title": "Whitebox",
+                "description": "A lightweight online sketching tool designed for quick ideas and visual thinking. It provides a clean canvas where you can draw, sketch, and brainstorm effortlessly in real time. Built for simplicity and speed, WhiteBox is perfect for students, developers, and teams to turn thoughts into visuals without distractions.",
+                "tags": [
+                    "javascript",
+                    "canvas",
+                    "real-time"
+                ]
+            },
+            {
+                "title": "TextUtils",
+                "description": "A simple and efficient web tool designed to help you quickly manipulate and analyze text. It offers features like converting text to uppercase or lowercase, removing extra spaces, counting words and characters, and improving readability.",
+                "tags": [
+                    "javascript",
+                    "string-manipullation",
+                    "text-processing"
+                ]
+            },
+            {
+                "title": "Programming & Web Development Start",
+                "description": "Began journey into programming and web development, learning core JavaScript, problem-solving, and building foundational projects.",
+                "tags": [
+                    "javascript",
+                    "basics",
+                    "problem-solving"
+                ]
+            }
+        ]
+    }
+]

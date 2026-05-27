@@ -1,12 +1,12 @@
 import Head from "next/head";
-import portfolio from '@/data/portfolio.json';
+import portfolio from '@/data/newPortfolio.json';
 import ListChrono from "@/components/lists/listChrono/listChrono";
 
 export default function Portfolio() {
-  return(
+  return (
     <>
       <Head>
-        <title>Portfolio | Kevin Oliveira</title>
+        <title>Portfolio | Shikhar Yadav</title>
       </Head>
       <div className="wrapper">
         <div className="content">

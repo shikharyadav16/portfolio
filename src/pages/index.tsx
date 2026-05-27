@@ -9,20 +9,20 @@ export default function Index() {
   return (
     <>
       <Head>
-        <title>Kevin Oliveira | Front-end & UI Designer</title>
-        <meta name="description" content="Front-end Developer at Din Digital, previously at Agência Murilhas. Frontend & Design."/>
+        <title>Shikhar Yadav | Backend Developer</title>
+        <meta name="description" content="Curious backend developer building scalable apps, exploring AI, solving problems creatively." />
 
-        <meta property="og:url" content="https://kevinoliveira.com.br/"/>
-        <meta property="og:type" content="website"/>
-        <meta property="og:title" content="Kevin Oliveira | Front-end & UI Designer"/>
-        <meta property="og:description" content="Front-end Developer at Din Digital, previously at Agência Murilhas. Frontend & Design."/>
-        <meta property="og:image" content="https://kevinoliveira.com.br/img/code-in-the-dark.png"/>
+        <meta property="og:url" content="https://shikhar-yadav.vercel.app/" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Shikhar Yadav | Backend Developer" />
+        <meta property="og:description" content="Curious backend developer building scalable apps, exploring AI, solving problems creatively." />
+        <meta property="og:image" content="https://shikhar-yadav.vercel.app/img/cropped_circle_image.png" />
 
-        <meta name="twitter:card" content="summary_large_image"/>
-        <meta property="twitter:url" content="https://kevinoliveira.com.br/"/>
-        <meta name="twitter:title" content="Kevin Oliveira | Front-end & UI Designer"/>
-        <meta name="twitter:description" content="Front-end Developer at Din Digital, previously at Agência Murilhas. Frontend & Design."/>
-        <meta name="twitter:image" content="https://kevinoliveira.com.br/img/code-in-the-dark.png"/>
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content="https://shikhar-yadav.vercel.app/" />
+        <meta name="twitter:title" content="Shikhar Yadav | Backend Developer" />
+        <meta name="twitter:description" content="Curious backend developer building scalable apps, exploring AI, solving problems creatively." />
+        <meta name="twitter:image" content="https://shikhar-yadav.vercel.app/img/cropped_circle_image.png" />
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="google-site-verification"
@@ -32,16 +32,16 @@ export default function Index() {
 
       <div className="wrapper">
         <article className={styles.presentation}>
-          <Image priority src="/img/avatar-lg.png" width="280" height="480" alt="" />
-          <h1>Olá, eu sou <strong>Kevin Oliveira</strong></h1>
-          <h2>Front-end e designer</h2>
+          <Image priority src="/img/cropped_circle_image.png" width="280" height="480" alt="" />
+          <h1>Hi, I&apos;m <strong>Shikhar Yadav</strong></h1>
+          <h2>Backend developer</h2>
         </article>
 
         <nav className={styles.menu}>
-          <CardPage href="/sobre/" title="Sobre mim" icon="person-add-fill" />
-          <CardPage href="/portfolio/" title="Portfólio" icon="folder-add-outline" />
-          <CardPage href="/servicos/" title="Serviços" icon="brush-outline" />
-          <CardPage href="https://dev.to/kvnol" title="Blog" icon="edit-2-outline" target="_blank" />
+          <CardPage href="/sobre/" title="About me" icon="person-add-fill" />
+          <CardPage href="/portfolio/" title="Portfolio" icon="folder-add-outline" />
+          <CardPage href="/servicos/" title="Services" icon="brush-outline" />
+          <CardPage href="/" title="Blog" icon="edit-2-outline" />
         </nav>
       </div>
     </>

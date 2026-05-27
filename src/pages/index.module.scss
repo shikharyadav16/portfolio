@@ -13,10 +13,11 @@
   img {
     display: block;
     width: auto;
-    height: 296px;
-    margin: 0 auto 8px;
+    height: 226px;
+    margin: 0 auto 18px;
     mix-blend-mode: exclusion;
     user-select: none;
+    opacity: 0.8;
 
     @media (min-width: 768px) {
       margin: 0 auto 12px;

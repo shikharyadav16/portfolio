@@ -11,9 +11,9 @@ export default function Header() {
     <header role="banner" className={styles.header}>
       <Logo />
       <nav className={styles.menu}>
-        <Link href="/sobre" className={`${styles['menu-item']} ${router.pathname == "/sobre" ? styles.active : ""}`}>Sobre</Link>
-        <Link href="/portfolio" className={`${styles['menu-item']} ${router.pathname == "/portfolio" ? styles.active : ""}`}>Portfólio</Link>
-        <Link href="/servicos" className={`${styles['menu-item']} ${router.pathname == "/servicos" ? styles.active : ""}`}>Serviços</Link>
+        <Link href="/sobre" className={`${styles['menu-item']} ${router.pathname == "/sobre" ? styles.active : ""}`}>About</Link>
+        <Link href="/portfolio" className={`${styles['menu-item']} ${router.pathname == "/portfolio" ? styles.active : ""}`}>Portfolio</Link>
+        <Link href="/servicos" className={`${styles['menu-item']} ${router.pathname == "/servicos" ? styles.active : ""}`}>Services</Link>
       </nav>
       <ToggleTheme />
     </header>

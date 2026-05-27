@@ -1,32 +1,32 @@
 [
   {
-    "year": 2014,
-    "title": "Lojas Incor",
-    "description": "Responsável pelo desenvolvimento da interface e cuidado à experiência do usuário das lojas virtuais, criação das campanhas publicitárias, banners e toda a gestão de artes do site utilizando Adobe Photoshop e Adobe Illustrator."
+    "year": 2023,
+    "title": "Full Stack Development Journey",
+    "description": "Started building full stack applications using JavaScript, Node.js, Express, and MongoDB. Focused on understanding backend architecture, APIs, and database design."
   },
   {
-    "year": 2016,
-    "title": "INSANE",
-    "description": "Estruturação de e-mails marketing, focando na performance em dispositivos móveis;Programação e manutenção front-end de projetos online (sites institucionais, landing pages, one pages e blogs), utilizando WordPress, Jekyll, PHP e HTML5."
+    "year": 2024,
+    "title": "Frontend Engineering",
+    "description": "Developed responsive web interfaces using React, Tailwind CSS, and modern UI practices. Worked on component architecture, routing, and performance optimization."
   },
   {
-    "year": 2018,
-    "title": "Pacto.online",
-    "description": "Responsável pela manutenção do UI styleguide da empresa, criação das telas front-end utilizando Figma para prototipação, e Vue.js e Laravel para produção, criação e vazão de e-mails marketings."
+    "year": 2025,
+    "title": "Real-Time Systems",
+    "description": "Built real-time applications using Socket.IO with features like rooms, live messaging, and scalable backend architecture."
   },
   {
-    "year": 2018,
-    "title": "Murilhas Comunicação",
-    "description": "Responsável pela manutenção do UI styleguide da empresa, criação das telas front-end utilizando Figma para prototipação, e Vue.js e Laravel para produção, criação e vazão de e-mails marketings."
+    "year": 2025,
+    "title": "AI Integration (Robofarm)",
+    "description": "Integrated AI-powered soil analysis using Hugging Face APIs. Designed backend workflows for data processing, intelligent recommendations, and report generation."
   },
   {
-    "year": "2019",
-    "title": "Din Digital",
-    "description": "Desenvolvimento de sites, aplicações e landing pages utilizando Laravel, WordPress, Vue.js e Angular. Atuando desde a montagem até a integração com APIs."
+    "year": 2025,
+    "title": "Backend Architecture & Security",
+    "description": "Implemented secure authentication using JWT and bcrypt, designed scalable APIs, and developed a custom lightweight ODM 'mongoose-lite-js' for file-based database management and learning system design concepts."
   },
   {
-    "year": "2023",
-    "title": "Docway",
-    "description": "Desenvolvimento de novas aplicações em React e sustentação de aplicações feitas com ASP.NET MVC, atuando com grande equipe de tecnologia."
+    "year": 2026,
+    "title": "Advanced Systems & InChat",
+    "description": "Building 'InChat', a real-time end-to-end encrypted messaging system using Socket.IO and TweetNaCl, focusing on encryption, key exchange, and scalable distributed architecture."
   }
 ]

@@ -11,23 +11,23 @@ export default function Sobre() {
   return (
     <>
       <Head>
-        <title>Sobre mim | Kevin Oliveira</title>
+        <title>About me | Shikhar Yadav</title>
       </Head>
       <div className="wrapper">
         <div className="content">
-          <h1>Sobre mim</h1>
-          <p>E aí! Meu nome é Kevin Oliveira, nasci em 1997 em Santo André, SP. Sou desenvolvedor front-end 💻 e designer 🎨. Atualmente trabalho na <Link href="https://docway.com.br/" target="_blank">Docway</Link> e sou músico nas horas vagas.</p>
+          <h1>About me</h1>
+          <p>Hey! My name is Shikhar Yadav, born in 2005 in Kanpur, Uttar Pradesh. I'm a backend developer. Currently developing <Link href="https://github.com/shikharyadav16/inchat" target="_blank">InChat</Link> and I'm a sketch artist in my spare time.</p>
         </div>
 
-        <ContentImage src="/img/code-in-the-dark.png" width={1024} height={560} alt="Kevin Oliveira codando sobre extrema pressão e luzes piscantes no Code In The Dark 2023">
-          <figcaption>
-            <p>Participando do <Link href="https://codeinthedark.com.br/" target="_blank">Code in the Dark 2023</Link></p>
-            <p>Foto por <Link href="https://instagram.com/leandro_godoi" target="_blank">@leandro_godoi</Link></p>
-          </figcaption>
+        <ContentImage src="/img/office_work.avif" width={1024} height={560} alt="Shikhar Yadav coding under extreme pressure and flashing lights at Code In The Dark 2023">
+          {/* <figcaption>
+            <p>Participating in <Link href="https://codeinthedark.com.br/" target="_blank">Code in the Dark 2023</Link></p>
+            <p>Photo by <Link href="https://instagram.com/leandro_godoi" target="_blank">@leandro_godoi</Link></p>
+          </figcaption> */}
         </ContentImage>
 
         <div className="content">
-          <ListTimeline title="Experiências">
+          <ListTimeline title="Journey">
             {experiences.map((experience, index) => (
               <li key={index}>
                 <CardTimeline title={experience.title} year={experience.year} description={experience.description} />
@@ -35,20 +35,20 @@ export default function Sobre() {
             ))}
           </ListTimeline>
 
-          <ListTags title="Competências" list={[
-            'HTML',
-            'CSS',
+          <ListTags title="Skills" list={[
             'JavaScript',
-            'Jekyll',
-            'Vue',
-            'React',
-            'Angular',
-            'WordPress',
-            'Git',
-            'User Interface',
-            'Figma',
-            'Photoshop',
-            'Illustrator',
+            'TypeScript',
+            'Node.js',
+            'Express.js',
+            'MongoDB',
+            'Socket.IO',
+            'React.js',
+            "Next.js",
+            'REST APIs',
+            'WebSockets',
+            'Git & GitHub',
+            'System Design',
+            'LangChain',
           ]} />
         </div>
       </div>
